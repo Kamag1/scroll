@@ -38,4 +38,8 @@ main {
     }
 }
 
+* {
+    scrollbar-width: thin;
+    scrollbar-color: orange rgb(48, 48, 48);
+}
 
